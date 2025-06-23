@@ -5,7 +5,7 @@ This project sets up Suricata IDS on Windows with custom rules to detect suspici
 
 ## Files Included
 - `suricata.yaml` – Suricata configuration file
-- `local.rules` – Custom rules file with alerts for ICMP, HTTP, DNS, etc.
+- `emerging-all.rules` – Custom rules file with alerts for ICMP, HTTP, DNS, etc.
 - `fast.log` – Sample alert log file (includes simulated alerts)
 - `screenshots/` – Evidence of setup and testing (interface list, ping test, alerts)
 - `README.md` – This file
